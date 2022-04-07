@@ -1,3 +1,3 @@
 # Machine Learning
 
-Etude d'achats en ligne à partir de plusieurs indicateurs.
+Intention d'achats en ligne de différents visiteurs d'un site Web.
